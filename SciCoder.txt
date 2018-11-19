@@ -1,0 +1,16 @@
+SciCoder:
+
+Git & GitHub
+-------------------------------
+#Commit a new changes:
+
+git status
+git commit -am "comment"
+git push origin master
+
+#Branch projects:
+
+git branch
+git branch branchname
+git checkout branchname
+
