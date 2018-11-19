@@ -5,6 +5,7 @@ Git & GitHub
 #Commit a new changes:
 
 git status
+git add Filename
 git commit -am "comment"
 git push origin master
 
@@ -13,4 +14,9 @@ git push origin master
 git branch
 git branch branchname
 git checkout branchname
+
+Intro to Python
+--------------------------------
+
+
 
